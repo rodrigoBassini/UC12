@@ -1,0 +1,32 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "nome": "Desenvolvedor Front End",
+      "foto": "foto1.jpg",
+      "descricao": "Trabalhar com Angular",
+      "salario": "5000"
+    },
+    {
+      "id": 2,
+      "nome": "Desenvolvedor Back End",
+      "foto": "foto2.jpg",
+      "descricao": "Trabalhar com Java",
+      "salario": "6000"
+    },
+    {
+      "id": 3,
+      "nome": "Desenvolvedor Webfullstack",
+      "foto": "foto3.jpg",
+      "descricao": "Trabalhar com Angular e Java",
+      "salario": "9000"
+    },
+    {
+      "id": "4",
+      "nome": "Auxiliar",
+      "foto": "foto4.jpg",
+      "descricao": "Auxiliar de TI",
+      "salario": "1500"
+    }
+  ]
+}
